@@ -1,0 +1,6 @@
+PyQt6>=6.6
+psutil>=5.9
+pywin32>=306
+nvidia-ml-py>=12    # isteğe bağlı: NVIDIA GPU (modül adı pynvml)
+Pillow>=10        # yalnızca packaging/make_logo.py
+pyflakes          # geliştirme

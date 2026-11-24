@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Derleme çıktıları
+build/
+dist/
+packaging/version_info.txt
+packaging/version.iss
+helper/bin/
+helper/obj/
+
+# Günlük / test
+*.log
+shots/
+
+# Editör / sistem
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+.claude/
+helper/publish/
